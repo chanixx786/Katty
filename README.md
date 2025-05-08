@@ -1,2 +1,2 @@
-# Katty
-
+# dependencies
+node_modules
